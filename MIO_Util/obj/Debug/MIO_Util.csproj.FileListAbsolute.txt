@@ -1,0 +1,6 @@
+C:\Projects\Gitlab\MioToProjects\MIO_Util\obj\Debug\MIO_Util.csprojResolveAssemblyReference.cache
+C:\Projects\Gitlab\MioToProjects\MIO_Util\bin\Debug\MIO_Util.dll.config
+C:\Projects\Gitlab\MioToProjects\MIO_Util\bin\Debug\MIO_Util.dll
+C:\Projects\Gitlab\MioToProjects\MIO_Util\bin\Debug\MIO_Util.pdb
+C:\Projects\Gitlab\MioToProjects\MIO_Util\obj\Debug\MIO_Util.dll
+C:\Projects\Gitlab\MioToProjects\MIO_Util\obj\Debug\MIO_Util.pdb
